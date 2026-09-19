@@ -1,8 +1,12 @@
 <div align="center">
 
 <p>
-  <img src="../assets/locales/hi/banner.svg" alt="KS-AAA-AI Banner" width="76%" />
-  <img src="../assets/avatar.gif" alt="KS-AAA-AI Monogram" width="22%" />
+  <picture>
+    <img src="../assets/locales/hi/banner.svg" alt="KS-AAA-AI Banner" width="76%" />
+  </picture>
+  <picture>
+    <img src="../assets/avatar.gif" alt="KS-AAA-AI Monogram" width="22%" />
+  </picture>
 </p>
 
 # KS-AAA-AI
@@ -33,7 +37,9 @@
 <br />
 
 <p align="center">
-  <img src="../assets/locales/hi/typing.gif" alt="Terminal Motion" width="100%" />
+  <picture>
+    <img src="../assets/locales/hi/typing.gif" alt="Terminal Motion" width="100%" />
+  </picture>
 </p>
 
 #### 🤖 स्वायत्त बुद्धि (Autonomous Intelligence)
