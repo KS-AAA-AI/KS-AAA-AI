@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-  **🇺🇸 English** · [🇰🇷 한국어](locales/ko.md) · [🇨🇳 中文](locales/zh-CN.md) · [🇪🇸 Español](locales/es.md) · [🇮🇳 हिन्दी](locales/hi.md)<br />
-  [🇸🇦 العربية](locales/ar.md) · [🇧🇷 Português](locales/pt-BR.md) · [🇷🇺 Русский](locales/ru.md) · [🇫🇷 Français](locales/fr.md) · [🇮🇩 Bahasa Indonesia](locales/id.md)
+  <strong>🇺🇸 English</strong> · <a href="locales/ko.md">🇰🇷 한국어</a> · <a href="locales/zh-CN.md">🇨🇳 中文</a> · <a href="locales/es.md">🇪🇸 Español</a> · <a href="locales/hi.md">🇮🇳 हिन्दी</a><br />
+  <a href="locales/ar.md">🇸🇦 العربية</a> · <a href="locales/pt-BR.md">🇧🇷 Português</a> · <a href="locales/ru.md">🇷🇺 Русский</a> · <a href="locales/fr.md">🇫🇷 Français</a> · <a href="locales/id.md">🇮🇩 Bahasa Indonesia</a>
 </p>
 
 <p>
