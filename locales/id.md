@@ -18,10 +18,10 @@
 </p>
 
 <p>
-  <img src="../assets/badges/badge-agents.svg" alt="Autonomous Agents" />
-  <img src="../assets/badges/badge-runtime.svg" alt="Vibe Coding" />
-  <img src="../assets/badges/badge-security.svg" alt="Zero-Knowledge HMAC" />
-  <img src="../assets/badges/badge-stack.svg" alt="Stack" />
+  <img src="../assets/locales/id/badges/badge-agents.svg" alt="Autonomous Agents" />
+  <img src="../assets/locales/id/badges/badge-runtime.svg" alt="Vibe Coding" />
+  <img src="../assets/locales/id/badges/badge-security.svg" alt="Zero-Knowledge HMAC" />
+  <img src="../assets/locales/id/badges/badge-stack.svg" alt="Stack" />
 </p>
 
 </div>
@@ -45,6 +45,10 @@ Merancang layanan mikro terpisah dan topologi failover multi-akun tanpa titik ke
 #### ⚡ Pengiriman Cepat
 Filosofi kode minimalis dipadukan dengan alur kerja tangkas untuk hasil produksi teruji.
 
+<p align="center">
+  <img src="../assets/locales/id/visuals/architecture-metrics.svg" alt="Architecture & Metrics" width="100%" />
+</p>
+
 </details>
 
 ---
@@ -65,6 +69,10 @@ Filosofi kode minimalis dipadukan dengan alur kerja tangkas untuk hasil produksi
   👉 <a href="https://github.com/KS-AAA-AI/github-org-map">Explore Repository</a>
 </p>
 
+<p align="center">
+  <img src="../assets/locales/id/visuals/workflow-pipeline.svg" alt="Workflow Pipeline" width="100%" />
+</p>
+
 </details>
 
 ---
@@ -79,6 +87,10 @@ Filosofi kode minimalis dipadukan dengan alur kerja tangkas untuk hasil produksi
 [Cloud & CI]  GitHub Actions · Docker · Cloudflare Workers / D1 · Vercel
 [Engineering] Vibe Coding · Agentic Automation · HMAC-SHA256 Cryptography
 `
+
+<p align="center">
+  <img src="../assets/locales/id/visuals/technology-stack.svg" alt="Technology Stack" width="100%" />
+</p>
 
 </details>
 

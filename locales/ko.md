@@ -18,10 +18,10 @@
 </p>
 
 <p>
-  <img src="../assets/badges/badge-agents.svg" alt="Autonomous Agents" />
-  <img src="../assets/badges/badge-runtime.svg" alt="Vibe Coding" />
-  <img src="../assets/badges/badge-security.svg" alt="Zero-Knowledge HMAC" />
-  <img src="../assets/badges/badge-stack.svg" alt="Stack" />
+  <img src="../assets/locales/ko/badges/badge-agents.svg" alt="Autonomous Agents" />
+  <img src="../assets/locales/ko/badges/badge-runtime.svg" alt="Vibe Coding" />
+  <img src="../assets/locales/ko/badges/badge-security.svg" alt="Zero-Knowledge HMAC" />
+  <img src="../assets/locales/ko/badges/badge-stack.svg" alt="Stack" />
 </p>
 
 </div>
@@ -45,6 +45,10 @@
 #### ⚡ 가속화 딜리버리 (Accelerated Delivery)
 군더더기 없는 미니멀 코드 철학(Ponytail)과 즉각적인 프로토타이핑으로 신속하고 검증된 프로덕션 산출물을 완성합니다.
 
+<p align="center">
+  <img src="../assets/locales/ko/visuals/architecture-metrics.svg" alt="Architecture & Metrics" width="100%" />
+</p>
+
 </details>
 
 ---
@@ -65,6 +69,10 @@
   👉 <a href="https://github.com/KS-AAA-AI/github-org-map">Explore Repository</a>
 </p>
 
+<p align="center">
+  <img src="../assets/locales/ko/visuals/workflow-pipeline.svg" alt="Workflow Pipeline" width="100%" />
+</p>
+
 </details>
 
 ---
@@ -79,6 +87,10 @@
 [Cloud & CI]  GitHub Actions · Docker · Cloudflare Workers / D1 · Vercel
 [Engineering] Vibe Coding · Agentic Automation · HMAC-SHA256 Cryptography
 `
+
+<p align="center">
+  <img src="../assets/locales/ko/visuals/technology-stack.svg" alt="Technology Stack" width="100%" />
+</p>
 
 </details>
 

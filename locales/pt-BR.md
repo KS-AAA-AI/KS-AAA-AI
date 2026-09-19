@@ -18,10 +18,10 @@
 </p>
 
 <p>
-  <img src="../assets/badges/badge-agents.svg" alt="Autonomous Agents" />
-  <img src="../assets/badges/badge-runtime.svg" alt="Vibe Coding" />
-  <img src="../assets/badges/badge-security.svg" alt="Zero-Knowledge HMAC" />
-  <img src="../assets/badges/badge-stack.svg" alt="Stack" />
+  <img src="../assets/locales/pt-BR/badges/badge-agents.svg" alt="Autonomous Agents" />
+  <img src="../assets/locales/pt-BR/badges/badge-runtime.svg" alt="Vibe Coding" />
+  <img src="../assets/locales/pt-BR/badges/badge-security.svg" alt="Zero-Knowledge HMAC" />
+  <img src="../assets/locales/pt-BR/badges/badge-stack.svg" alt="Stack" />
 </p>
 
 </div>
@@ -45,6 +45,10 @@ Projeto de microsserviços desacoplados e topologias sem ponto único de falha c
 #### ⚡ Entrega Acelerada
 Filosofia de código minimalista combinada com fluxos rápidos para entregáveis robustos em produção.
 
+<p align="center">
+  <img src="../assets/locales/pt-BR/visuals/architecture-metrics.svg" alt="Architecture & Metrics" width="100%" />
+</p>
+
 </details>
 
 ---
@@ -65,6 +69,10 @@ Filosofia de código minimalista combinada com fluxos rápidos para entregáveis
   👉 <a href="https://github.com/KS-AAA-AI/github-org-map">Explore Repository</a>
 </p>
 
+<p align="center">
+  <img src="../assets/locales/pt-BR/visuals/workflow-pipeline.svg" alt="Workflow Pipeline" width="100%" />
+</p>
+
 </details>
 
 ---
@@ -79,6 +87,10 @@ Filosofia de código minimalista combinada com fluxos rápidos para entregáveis
 [Cloud & CI]  GitHub Actions · Docker · Cloudflare Workers / D1 · Vercel
 [Engineering] Vibe Coding · Agentic Automation · HMAC-SHA256 Cryptography
 `
+
+<p align="center">
+  <img src="../assets/locales/pt-BR/visuals/technology-stack.svg" alt="Technology Stack" width="100%" />
+</p>
 
 </details>
 

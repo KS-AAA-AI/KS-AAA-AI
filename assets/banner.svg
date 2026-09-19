@@ -10,37 +10,26 @@
       <stop offset="60%" stop-color="#38BDF8"/>
       <stop offset="100%" stop-color="#818CF8"/>
     </linearGradient>
-    <filter id="neonBlur" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="10" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
   </defs>
 
-  <!-- Background Base -->
   <rect width="900" height="240" rx="28" fill="url(#bgGrad)"/>
   <rect x="2" y="2" width="896" height="236" rx="26" fill="none" stroke="#1E293B" stroke-width="2"/>
 
-  <!-- Cyber Grid Lines -->
   <line x1="40" y1="60" x2="860" y2="60" stroke="#172236" stroke-width="1" stroke-dasharray="8 8"/>
   <line x1="40" y1="180" x2="860" y2="180" stroke="#172236" stroke-width="1" stroke-dasharray="8 8"/>
   <circle cx="820" cy="40" r="6" fill="#10B981"/>
   <circle cx="820" cy="40" r="14" fill="#10B981" opacity="0.25"/>
 
-  <!-- Brand Typography -->
   <g transform="translate(60, 50)">
-    <text x="0" y="30" fill="url(#neonCyan)" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="800" letter-spacing="3">TRIPLE-A AUTONOMOUS ECOSYSTEM</text>
-    <text x="0" y="82" fill="#F8FAFC" font-family="system-ui, -apple-system, sans-serif" font-size="42" font-weight="900" letter-spacing="-1">KS-AAA-AI</text>
-    <text x="0" y="115" fill="#94A3B8" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="500">Autonomous Agents · Cloud Architecture · Accelerated Delivery</text>
+    <text x="0" y="30" fill="url(#neonCyan)" font-family="system-ui, sans-serif" font-size="13" font-weight="800" letter-spacing="3">TRIPLE-A AUTONOMOUS ECOSYSTEM</text>
+    <text x="0" y="82" fill="#F8FAFC" font-family="system-ui, sans-serif" font-size="42" font-weight="900" letter-spacing="-1">KS-AAA-AI</text>
+    <text x="0" y="115" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="15" font-weight="500">Autonomous Agents · Cloud Architecture · Accelerated Delivery</text>
   </g>
 
-  <!-- Accent Geometry Indicators -->
   <g transform="translate(60, 196)">
     <rect x="0" y="0" width="36" height="6" rx="3" fill="#00F2FE"/>
     <rect x="44" y="0" width="36" height="6" rx="3" fill="#38BDF8"/>
     <rect x="88" y="0" width="36" height="6" rx="3" fill="#818CF8"/>
-    <text x="140" y="8" fill="#64748B" font-family="Consolas, monospace" font-size="11">APEX VIBE CODING RUNTIME // PRODUCTION HARDENED</text>
+    <text x="140" y="8" fill="#64748B" font-family="Consolas, monospace" font-size="11">APEX VIBE CODING RUNTIME // [EN]</text>
   </g>
 </svg>

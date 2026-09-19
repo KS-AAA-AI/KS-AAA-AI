@@ -18,10 +18,10 @@
 </p>
 
 <p>
-  <img src="./assets/badges/badge-agents.svg" alt="Autonomous Agents" />
-  <img src="./assets/badges/badge-runtime.svg" alt="Vibe Coding" />
-  <img src="./assets/badges/badge-security.svg" alt="Zero-Knowledge HMAC" />
-  <img src="./assets/badges/badge-stack.svg" alt="Stack" />
+  <img src="./assets/locales/en/badges/badge-agents.svg" alt="Autonomous Agents" />
+  <img src="./assets/locales/en/badges/badge-runtime.svg" alt="Vibe Coding" />
+  <img src="./assets/locales/en/badges/badge-security.svg" alt="Zero-Knowledge HMAC" />
+  <img src="./assets/locales/en/badges/badge-stack.svg" alt="Stack" />
 </p>
 
 </div>
@@ -45,6 +45,10 @@ Designing decoupled microservices, stateless runtimes, and zero-SPOF multi-accou
 #### ⚡ Accelerated Delivery
 Minimalist code philosophy (Ponytail) combined with instant vibe coding workflows for battle-tested deliverables.
 
+<p align="center">
+  <img src="./assets/locales/en/visuals/architecture-metrics.svg" alt="Architecture & Metrics" width="100%" />
+</p>
+
 </details>
 
 ---
@@ -65,6 +69,10 @@ Minimalist code philosophy (Ponytail) combined with instant vibe coding workflow
   👉 <a href="https://github.com/KS-AAA-AI/github-org-map">Explore Repository</a>
 </p>
 
+<p align="center">
+  <img src="./assets/locales/en/visuals/workflow-pipeline.svg" alt="Workflow Pipeline" width="100%" />
+</p>
+
 </details>
 
 ---
@@ -79,6 +87,10 @@ Minimalist code philosophy (Ponytail) combined with instant vibe coding workflow
 [Cloud & CI]  GitHub Actions · Docker · Cloudflare Workers / D1 · Vercel
 [Engineering] Vibe Coding · Agentic Automation · HMAC-SHA256 Cryptography
 `
+
+<p align="center">
+  <img src="./assets/locales/en/visuals/technology-stack.svg" alt="Technology Stack" width="100%" />
+</p>
 
 </details>
 
