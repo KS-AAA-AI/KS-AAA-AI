@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070B13"/>
+      <stop offset="50%" stop-color="#0E1626"/>
+      <stop offset="100%" stop-color="#05080F"/>
+    </linearGradient>
+    <linearGradient id="neonCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE"/>
+      <stop offset="60%" stop-color="#38BDF8"/>
+      <stop offset="100%" stop-color="#818CF8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="240" rx="28" fill="url(#bgGrad)"/>
+  <rect x="2" y="2" width="896" height="236" rx="26" fill="none" stroke="#1E293B" stroke-width="2"/>
+
+  <line x1="40" y1="60" x2="860" y2="60" stroke="#172236" stroke-width="1" stroke-dasharray="8 8"/>
+  <line x1="40" y1="180" x2="860" y2="180" stroke="#172236" stroke-width="1" stroke-dasharray="8 8"/>
+  <circle cx="820" cy="40" r="6" fill="#10B981"/>
+  <circle cx="820" cy="40" r="14" fill="#10B981" opacity="0.25"/>
+
+  <g transform="translate(60, 50)">
+    <text x="0" y="30" fill="url(#neonCyan)" font-family="system-ui, sans-serif" font-size="13" font-weight="800" letter-spacing="3">TRIPLE-A स्वायत्त पारिस्थितिकी तंत्र</text>
+    <text x="0" y="82" fill="#F8FAFC" font-family="system-ui, sans-serif" font-size="42" font-weight="900" letter-spacing="-1">KS-AAA-AI</text>
+    <text x="0" y="115" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="15" font-weight="500">स्वायत्त एजेंट · लचीला क्लाउड आर्किटेक्चर · त्वरित वितरण</text>
+  </g>
+
+  <g transform="translate(60, 196)">
+    <rect x="0" y="0" width="36" height="6" rx="3" fill="#00F2FE"/>
+    <rect x="44" y="0" width="36" height="6" rx="3" fill="#38BDF8"/>
+    <rect x="88" y="0" width="36" height="6" rx="3" fill="#818CF8"/>
+    <text x="140" y="8" fill="#64748B" font-family="Consolas, monospace" font-size="11">APEX VIBE CODING RUNTIME // [HI]</text>
+  </g>
+</svg>
