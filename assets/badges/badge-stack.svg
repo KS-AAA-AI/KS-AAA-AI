@@ -1,0 +1,7 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="220" height="26" viewBox="0 0 220 26">
+  <rect width="220" height="26" rx="6" fill="#0A0E17" stroke="#1E293B" stroke-width="1"/>
+  <rect x="0" y="0" width="80" height="26" rx="6" fill="#131B2E"/>
+  <rect x="74" y="0" width="6" height="26" fill="#131B2E"/>
+  <text x="40" y="17" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle" letter-spacing="0.5">STACK</text>
+  <text x="148" y="17" fill="#818CF8" font-family="system-ui, sans-serif" font-size="11" font-weight="700" text-anchor="middle">TS · Python · Go</text>
+</svg>
